@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/one-stop-ai/static/css/main.39e971eb.css",
-    "main.js": "/one-stop-ai/static/js/main.ea4784dc.js",
+    "main.css": "/one-stop-ai/static/css/main.efaa6f77.css",
+    "main.js": "/one-stop-ai/static/js/main.1b590fcf.js",
     "static/js/453.0f05136b.chunk.js": "/one-stop-ai/static/js/453.0f05136b.chunk.js",
     "static/media/Matter-Medium.woff": "/one-stop-ai/static/media/Matter-Medium.ab7a0b70d9126fac6bb9.woff",
     "static/media/Matter-Medium.woff2": "/one-stop-ai/static/media/Matter-Medium.edb6ebd9fc5a2bbff03f.woff2",
     "index.html": "/one-stop-ai/index.html",
-    "main.39e971eb.css.map": "/one-stop-ai/static/css/main.39e971eb.css.map",
-    "main.ea4784dc.js.map": "/one-stop-ai/static/js/main.ea4784dc.js.map",
+    "main.efaa6f77.css.map": "/one-stop-ai/static/css/main.efaa6f77.css.map",
+    "main.1b590fcf.js.map": "/one-stop-ai/static/js/main.1b590fcf.js.map",
     "453.0f05136b.chunk.js.map": "/one-stop-ai/static/js/453.0f05136b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.39e971eb.css",
-    "static/js/main.ea4784dc.js"
+    "static/css/main.efaa6f77.css",
+    "static/js/main.1b590fcf.js"
   ]
 }
