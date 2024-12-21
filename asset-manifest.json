@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/one-stop-ai/static/css/main.efaa6f77.css",
-    "main.js": "/one-stop-ai/static/js/main.1b590fcf.js",
+    "main.css": "/one-stop-ai/static/css/main.9d883d9a.css",
+    "main.js": "/one-stop-ai/static/js/main.5ff31e6c.js",
     "static/js/453.0f05136b.chunk.js": "/one-stop-ai/static/js/453.0f05136b.chunk.js",
+    "static/media/dg1.png": "/one-stop-ai/static/media/dg1.dde88815047136dea432.png",
+    "static/media/dg2.png": "/one-stop-ai/static/media/dg2.ff70204f5fb2d8ef8026.png",
+    "static/media/onestopailogo.png": "/one-stop-ai/static/media/onestopailogo.cadcdabc25ccd91c24ad.png",
     "static/media/Matter-Medium.woff": "/one-stop-ai/static/media/Matter-Medium.ab7a0b70d9126fac6bb9.woff",
     "static/media/Matter-Medium.woff2": "/one-stop-ai/static/media/Matter-Medium.edb6ebd9fc5a2bbff03f.woff2",
     "index.html": "/one-stop-ai/index.html",
-    "main.efaa6f77.css.map": "/one-stop-ai/static/css/main.efaa6f77.css.map",
-    "main.1b590fcf.js.map": "/one-stop-ai/static/js/main.1b590fcf.js.map",
+    "main.9d883d9a.css.map": "/one-stop-ai/static/css/main.9d883d9a.css.map",
+    "main.5ff31e6c.js.map": "/one-stop-ai/static/js/main.5ff31e6c.js.map",
     "453.0f05136b.chunk.js.map": "/one-stop-ai/static/js/453.0f05136b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.efaa6f77.css",
-    "static/js/main.1b590fcf.js"
+    "static/css/main.9d883d9a.css",
+    "static/js/main.5ff31e6c.js"
   ]
 }
