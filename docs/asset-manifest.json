@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/uni-card-clone/static/css/main.00b94117.css",
+    "main.js": "/uni-card-clone/static/js/main.556f56d6.js",
+    "static/js/787.d06a32ce.chunk.js": "/uni-card-clone/static/js/787.d06a32ce.chunk.js",
+    "static/media/Matter-Medium.woff": "/uni-card-clone/static/media/Matter-Medium.ab7a0b70d9126fac6bb9.woff",
+    "static/media/Matter-Medium.woff2": "/uni-card-clone/static/media/Matter-Medium.edb6ebd9fc5a2bbff03f.woff2",
+    "index.html": "/uni-card-clone/index.html",
+    "main.00b94117.css.map": "/uni-card-clone/static/css/main.00b94117.css.map",
+    "main.556f56d6.js.map": "/uni-card-clone/static/js/main.556f56d6.js.map",
+    "787.d06a32ce.chunk.js.map": "/uni-card-clone/static/js/787.d06a32ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00b94117.css",
+    "static/js/main.556f56d6.js"
+  ]
+}
