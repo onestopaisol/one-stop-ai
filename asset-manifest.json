@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/one-stop-ai/static/css/main.9d883d9a.css",
-    "main.js": "/one-stop-ai/static/js/main.5ff31e6c.js",
+    "main.js": "/one-stop-ai/static/js/main.29621d43.js",
     "static/js/453.0f05136b.chunk.js": "/one-stop-ai/static/js/453.0f05136b.chunk.js",
     "static/media/dg1.png": "/one-stop-ai/static/media/dg1.dde88815047136dea432.png",
     "static/media/dg2.png": "/one-stop-ai/static/media/dg2.ff70204f5fb2d8ef8026.png",
@@ -10,11 +10,11 @@
     "static/media/Matter-Medium.woff2": "/one-stop-ai/static/media/Matter-Medium.edb6ebd9fc5a2bbff03f.woff2",
     "index.html": "/one-stop-ai/index.html",
     "main.9d883d9a.css.map": "/one-stop-ai/static/css/main.9d883d9a.css.map",
-    "main.5ff31e6c.js.map": "/one-stop-ai/static/js/main.5ff31e6c.js.map",
+    "main.29621d43.js.map": "/one-stop-ai/static/js/main.29621d43.js.map",
     "453.0f05136b.chunk.js.map": "/one-stop-ai/static/js/453.0f05136b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d883d9a.css",
-    "static/js/main.5ff31e6c.js"
+    "static/js/main.29621d43.js"
   ]
 }
